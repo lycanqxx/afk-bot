@@ -13,4 +13,5 @@ Bu bot, Minecraft sunucusuna bağlanıp AFK kalmamak için düzenli aralıklarla
  index.js de gerekli alanlari doldurduktan sonra terminale
 
  node index.js
+
 yazman yeterli olucaktır iyi oyunlar <33
